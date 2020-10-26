@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reviewer</string>
+    <string name="All_goods">Все товары</string>
+    <string name="choose_message">Шо делаем?</string>
+    <string name="edit_button">Изменить</string>
+    <string name="delete_button">Удалить</string>
+    <string name="upload_image">Загрузить фото</string>
+    <string name="product_name">Название</string>
+    <string name="manufacturer">Производитель</string>
+    <string name="category_name">Категория</string>
+    <string name="amount_hint">Количество</string>
+    <string name="price">Цена</string>
+    <string name="review">Обзор</string>
+    <string name="addDate">Дата</string>
+    <string name="add_item_description">Добавить товар</string>
+
+    <string-array name="amountTypeSpinner">
+        <item>кг.</item>
+        <item>л.</item>
+        <item>шт.</item>
+    </string-array>
+</resources>
